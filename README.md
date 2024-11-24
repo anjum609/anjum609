@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Al Wase Anjum</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/anjum609?cardType=level&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjum609&label=Profile%20views&color=0e75b6&style=flat" alt="anjum609" /> </p>
 
@@ -25,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjum609&show_icons=true&locale=en&layout=compact" alt="anjum609" /></p>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/anjum609?cardType=level&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjum609&show_icons=true&locale=en" alt="anjum609" /></p>
 
