@@ -25,6 +25,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjum609&show_icons=true&locale=en&layout=compact" alt="anjum609" /></p>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/anjum609?cardType=level&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjum609&show_icons=true&locale=en" alt="anjum609" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjum609&" alt="anjum609" /></p>
